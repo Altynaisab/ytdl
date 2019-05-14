@@ -1,9 +1,9 @@
+*secrets.py
 *.pyc
 *~
-download/migrations/__pycache__
-ytdl/__pycache__
+__pycache__
 myvenv
 db.sqlite3
 /static
 .DS_Store
-__init__.py/*/*/
+__init__.py
